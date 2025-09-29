@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Mar.
 
-💻 **Web Applications Developer (DAW)** with a strong focus on **Backend** development and clean coding practices.  
+💻 **Web Developer Student (DAW)** with a strong focus on **Backend** development and clean coding practices.  
 
 🚀 Technologies I work with:  
  ☕ **Java** · 🐍 **Python** · 🗄️ **MySQL** · 🎨 **HTML / CSS** · ⚡ **JavaScript** · 🐘 **PHP**  
